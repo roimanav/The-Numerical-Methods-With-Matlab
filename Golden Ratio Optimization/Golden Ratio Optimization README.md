@@ -2,7 +2,7 @@ _**GoldenOpt**_ or the Golden Ratio Optimization function determines the
 approximate input value of a given function when the functional value is
 either maximum or minimum between the interval provided by the user.
 
-**INPUTS:  **
+**INPUTS:**
 
 f        : The function which has to be optimized.
 
