@@ -3,7 +3,7 @@ The _Numerical Method With Matlab_ repository contains matlab codes for some Num
 
 The _Numerical Mecthods with Matlab_ repository includes the following Numerical estimation functions:-
 * False Position
-* Bisections
+* Bisection
 * Golden Ratio Optimization
 * LU Factorization with pivoting
 * LU Factorization with inverse
