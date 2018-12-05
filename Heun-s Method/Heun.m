@@ -7,7 +7,9 @@ function [t,y] = Heun(dydt,tspan,y0,h,es,maxit)
 % INPUTS
 % dydt  : The ordinary differential eyation which needs to be solved.
 %         The user should input is as an anonymous function i.e
-%         @(t,y)"expression". The functtion has to be interms of t and y!!!
+%         @(t,y)"expression". The first variable in the function has to be
+%         independent variable and the second variable has to be the 
+%         dependent variable !!!
 % tspan : The vector containing just the lower and upper limit of the
 %         independent variable t. tspan has to be a 2 element row vector!!!  
 % y0    : It is the initial boundary condition for the function which is
@@ -72,5 +74,6 @@ end
 
 end
 
-                 
+% Created on 12/4/2018
+%         by Manav Sharma
                  
