@@ -10,4 +10,4 @@ The _Numerical Meothods with Matlab_ repository includes the following Numerical
 * [LU Factorization with pivoting](https://github.com/roimanav/The-Numerical-Methods-With-Matlab/tree/master/LU%20Factorization%20with%20Pivoting)
 * [Simpson's Method](https://github.com/roimanav/The-Numerical-Methods-With-Matlab/tree/master/Simpson-s%20Method)
 
-Every function has a folder in the repository. The function folder contains the mfile for the function which can be run on MATLAB and a README.md file describing the function. Some folder might also contain a flow chart of the function.
+Every function has a folder by its name in the repository. The function folder contains the mfile for the function which can be run on MATLAB and a README.md file describing the function. Some folder might also contain a flow chart of the function.
